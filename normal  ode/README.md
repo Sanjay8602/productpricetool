@@ -10,7 +10,7 @@
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/Sanjay8602/product-price-tool.git
+git clone https://github.com/Sanjay8602/productpricetool.git
 ```
 
 ### 2. Configure Environment Variables
